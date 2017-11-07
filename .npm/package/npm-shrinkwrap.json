@@ -1,9 +1,10 @@
 {
+  "lockfileVersion": 1,
   "dependencies": {
     "path-to-regexp": {
       "version": "1.0.1",
       "resolved": "https://registry.npmjs.org/path-to-regexp/-/path-to-regexp-1.0.1.tgz",
-      "from": "path-to-regexp@1.0.1"
+      "integrity": "sha1-C4epfQntbDAVCOcQJyhSskNgyLI="
     }
   }
 }
